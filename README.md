@@ -1,6 +1,6 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a list of mini projects which was done using reactjs + vite, the projects includes a to-do-list application,stopwatch,a digital clock in it ;
 
 Currently, two official plugins are available:
 
